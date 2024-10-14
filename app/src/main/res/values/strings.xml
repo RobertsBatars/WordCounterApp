@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- String resources -->
+<resources>
+    <string name="app_name">Word Counter App</string>
+    <string name="hint_enter_text">Enter your text here</string>
+    <string name="button_count">Count</string>
+    <string name="text_view_result">Result will be shown here</string>
+    <string name="toast_empty_input">Please enter some text.</string>
+    <string name="result_words">Word Count: %1$d</string>
+    <string name="result_characters">Character Count: %1$d</string>
+
+    <!-- Spinner options -->
+    <string-array name="count_options">
+        <item>Words</item>
+        <item>Characters</item>
+    </string-array>
+</resources>
